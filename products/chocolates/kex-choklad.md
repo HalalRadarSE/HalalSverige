@@ -1,5 +1,4 @@
 # Kex Choklad  
-## Product
 ![Kex Choklad](https://raw.githubusercontent.com/HalalRadarSE/HalalSverige/main/1003086_kexchoklad_displaybox.jpg)
 
 
