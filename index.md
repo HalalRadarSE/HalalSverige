@@ -1,12 +1,14 @@
-# Welcome to My Jekyll Website!
+# Swedish Halal Product Guide
 
-This is my homepage created using GitHub Pages and Jekyll.
+### Introduction:  
+Welcome to the **Swedish Halal Product Guide**, a community-driven initiative to help consumers make informed choices about halal-friendly products in Sweden. We reach out to manufacturers and consumer service representatives to verify whether specific products meet halal dietary requirements.  
 
-## About Me
-I'm a web enthusiast learning how to build sites with Jekyll and GitHub Pages.
+Each listing includes a product name and a screenshot of the company’s response, allowing you to review the information and decide for yourself. We do not certify or endorse any products—our goal is to provide transparency so you can make your own choice.  
 
-## My Projects
-- [Project 1](project1.md)
-- [Project 2](project2.md)
+
+## Types of Products
+- [Chocolates](products/product1.md)
+- [Pringles ](products/product2.md)
+- [Almondy Cakes](products/product3.md)
 
 ![My Image](assets/images/my-image.jpg)
