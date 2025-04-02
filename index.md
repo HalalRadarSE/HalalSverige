@@ -9,6 +9,6 @@ Each listing includes a product name and a screenshot of the company’s respons
 ## Types of Products
 - [Chocolates](products/chocolates.md)
 - [Pringles ](products/product2.md)
-- [Almondy Cakes](products/product3.md)
+- [Almondy Cakes](products/Cakes)
 
 ![My Image](assets/images/my-image.jpg)
