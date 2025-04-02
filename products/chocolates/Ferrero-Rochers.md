@@ -1,5 +1,6 @@
 # Ferrero Rocher Chocolate  
-![Ferrero Rocher Chocolates](https://raw.githubusercontent.com/HalalRadarSE/HalalSverige/blob/main/Ferrero%20Rochers%20image.jpg)
+![Ferrero Rocher Chocolates](https://raw.githubusercontent.com/HalalRadarSE/HalalSverige/main/Ferrero%20Rochers%20image.jpg)
+
 
 
 ## Consumer Service Response
