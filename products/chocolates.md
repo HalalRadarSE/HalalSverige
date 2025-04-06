@@ -7,3 +7,4 @@
 | [Snickers](https://www.willys.se/produkt/Snickers-101545635_ST)             | SNICKERS is Halal certified         | July 2020        |
 | [TWIX](https://www.willys.se/produkt/Twix-101545678_ST)             | TWIX is Halal certified         | July 2020      |
 | [MARS](https://www.willys.se/produkt/Mars-101545637_ST) | MARS is Halal certified     | July 2020      |
+| [Marabou Choclates (all flavours)](https://www.willys.se/sok?q=marabou)) | Our flavorings may include vanillin dissolved in ethanol, but the final product contains only a trace amount of alcohol (0.1%). Fat-based E-substances can be derived from either animal or vegetable fats, depending on the supplier and production batch.     | Sep 2020      |
