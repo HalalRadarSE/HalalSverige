@@ -9,7 +9,7 @@ Each listing includes a product name, a summary of Consumer Service's response, 
 ## Types of Products
 - [Chocolates](products/chocolates.md)
 - [Chips ](products/product2.md)
-- [Almondy Cakes](products/Cakes.md)
+- [Almondy Cakes](products/Almondy.md)
 - [Juice](products/Juice.md)
 - [Ice Creams](products/Icecreams.md)
 - [Cheese](products/Cheese.md)
