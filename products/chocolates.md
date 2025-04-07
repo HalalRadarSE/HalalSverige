@@ -8,3 +8,4 @@
 | [TWIX](https://www.willys.se/produkt/Twix-101545678_ST)             | TWIX is Halal certified         | July 2020      |
 | [MARS](https://www.willys.se/produkt/Mars-101545637_ST) | MARS is Halal certified     | July 2020      |
 | [Marabou Choclates (all flavours)](https://www.willys.se/sok?q=marabou)) | Our flavorings may include vanillin dissolved in ethanol, but the final product contains only a trace amount of alcohol (0.1%). Fat-based E-substances can be derived from either animal or vegetable fats, depending on the supplier and production batch.     | Sep 2020      |
+| [Daim](https://www.willys.se/produkt/Daim-Chokladbit-100617897_ST)      | All Daim products are suitable for a vegetarian diet and don't contain any alcohol  | April 2025              |
